@@ -1,0 +1,11 @@
+D:\C#\frm_Login\frm_Login\bin\Debug\frm_Login.exe.config
+D:\C#\frm_Login\frm_Login\bin\Debug\frm_Login.exe
+D:\C#\frm_Login\frm_Login\bin\Debug\frm_Login.pdb
+D:\C#\frm_Login\frm_Login\obj\Debug\frm_Login.csproj.AssemblyReference.cache
+D:\C#\frm_Login\frm_Login\obj\Debug\frm_Login.Form1.resources
+D:\C#\frm_Login\frm_Login\obj\Debug\frm_Login.Properties.Resources.resources
+D:\C#\frm_Login\frm_Login\obj\Debug\frm_Login.csproj.GenerateResource.cache
+D:\C#\frm_Login\frm_Login\obj\Debug\frm_Login.csproj.CoreCompileInputs.cache
+D:\C#\frm_Login\frm_Login\obj\Debug\frm_Login.exe
+D:\C#\frm_Login\frm_Login\obj\Debug\frm_Login.pdb
+D:\C#\frm_Login\frm_Login\obj\Debug\frm_Login.Form2.resources
